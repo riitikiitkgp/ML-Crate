@@ -16,7 +16,7 @@ This is a regression problem where we need to predict the moisture of the soil t
 
 WHAT I HAD DONE
 
-1. Perfromed exploratory data analysis (EDA) on the given dataset.
+1. Performed exploratory data analysis (EDA) on the given dataset.
 2. It starts with loading the dataset and viewing the top 5 rows.
 3. We calculate statistical data in the dataset.
 4. Then comes finding correlation between the features and also finding statistical values related to the dataset.
